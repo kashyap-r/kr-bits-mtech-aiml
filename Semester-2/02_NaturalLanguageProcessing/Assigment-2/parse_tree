@@ -1,0 +1,12 @@
+digraph G {
+"S" -> "NP"
+"NP" -> "John"
+"S" -> "VP"
+"VP" -> "V"
+"V" -> "saw"
+"VP" -> "NP"
+"NP" -> "DT"
+"DT" -> "the"
+"NP" -> "NN"
+"NN" -> "animal"
+}
